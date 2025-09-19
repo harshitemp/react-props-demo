@@ -9,3 +9,9 @@ cd react-props-demo
 npm install
 npm install @vitejs/plugin-react --save-dev
 npm run dev
+## Screenshots
+
+Here’s a preview of the app:
+
+![App Screenshot](public/ss1.png)
+
